@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+  
+}
+
+div {
+  margin:0 auto;
+  border: 2px solid #de7bae;
+  padding: 20px;
+  width: 400px;
+  background-color:#fff0f5 ;
+  text-align:left;
+  
+}
+
+  p1 {
+    background-color: #fcfc08;
+  }
+
+
+  
+  
